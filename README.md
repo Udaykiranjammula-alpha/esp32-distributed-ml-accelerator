@@ -240,7 +240,7 @@ esp32-distributed-ml-accelerator/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/esp32-distributed-ml-accelerator.git
+   git clone https://github.com/Udaykiranjammula-alpha/esp32-distributed-ml-accelerator.git
    cd esp32-distributed-ml-accelerator
    ```
 
